@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @iliakhlyzov
 - 👀 I’m interested in programming and exploring new technologies.
-- 🌱 My stack: Nodejs, Express, PostgreSQL and more.
+- 🌱 My stack: Nodejs, Express, PostgreSQL;
 
 ____
 
