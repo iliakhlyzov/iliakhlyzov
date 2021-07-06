@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @iliakhlyzov
 - 👀 I’m interested in programming and exploring new technologies.
 - 🌱 My stack: Nodejs, Express, PostgreSQL;
-
+- Exploring now CSS and new frameworks.
 ____
 
 	backend-project-level1: 'Console games'
@@ -12,6 +12,9 @@ ____
   
 	backend-project-level3: 'Page loader utility.'
   
+  	yandexContestTraining: 'tasks by Yandex Algorithms Online course'
+	
+	myTasks: ToDo-app via RoR & Angular
 
 
 <!---
