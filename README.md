@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @iliakhlyzov
 - 👀 I’m interested in programming and exploring new technologies.
 - 🌱 My stack: Nodejs, Express, PostgreSQL;
-- Exploring now CSS and new frameworks.
+- Exploring now NestJS, TypeScript, CSS, SICP JS.
 ____
 
 	backend-project-level1: 'Console games'
